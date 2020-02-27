@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/tonidumitriu/tonidumitriu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
