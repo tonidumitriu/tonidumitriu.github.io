@@ -1,4 +1,4 @@
-## Toni Dumitriu
+## Welcome to my website!
 
 I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. 
 
