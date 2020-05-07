@@ -3,8 +3,7 @@
 I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. 
 
 
-```markdown
-Projects
+### Projects
 
 [Bank Simulation](https://github.com/tonidumitriu/Bank-Sim)
 
@@ -16,12 +15,11 @@ This is a python program that recreates a game of sudoku.
 
 [BMI Calculator]
 
-```
 
 
 ### Other Passions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonidumitriu/tonidumitriu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Contact
 
