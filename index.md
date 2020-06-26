@@ -1,6 +1,6 @@
-## Welcome to my website!
+## Welcome, a brief look at me:
 
-I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. 
+I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. I am also a competitive rower 
 
 
 ### Projects
@@ -13,6 +13,11 @@ This is a java program that answers a very simple question. What is the most eff
 
 This is a python program that recreates a game of sudoku.
 
+[Tetris](https://github.com/tonidumitriu/Tetris)
+
+A JavaScript program using elemetns from HTML and CSS go create an online game of Tetris. 
+
+
 [BMI Calculator]
 
 
@@ -23,6 +28,6 @@ This is a python program that recreates a game of sudoku.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/toni-dumitriu-4730a5199/)
+[LinkedIn](https://www.linkedin.com/in/tonidumitriu)
 
 [Email](aid17@pitt.edu)
