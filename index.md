@@ -1,4 +1,3 @@
-## Welcome, a brief look at me:
 
 I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. I am also a competitive rower 
 
