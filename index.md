@@ -1,5 +1,5 @@
 
-I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. I am also a competitive rower 
+I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. I am also a competitive rower for the University. Any donations to the team would be very appreciated. [Donate](http://www.pitt.edu/~crew/donation.html)
 
 
 ### Projects
@@ -17,8 +17,9 @@ This is a python program that recreates a game of sudoku.
 A JavaScript program using elemetns from HTML and CSS go create an online game of Tetris. 
 
 
-[BMI Calculator]
+[BMI Calculator](https://github.com/tonidumitriu/BMI-calculator)
 
+This is an IOS app programmed in Swift that calculates your BMI and tells you what weight category you fall into.
 
 
 ### Other Passions
