@@ -24,7 +24,7 @@ This is an IOS app programmed in Swift that calculates your BMI and tells you wh
 
 ### Other Passions
 
-Along with computer science and rowing I am also studying philosophy and hope to find a way to integrate that into my future career in computer science.
+Along with computer science and rowing I am also studying philosophy and economics and hope to find a way to integrate all three into my future career.
 
 ### Contact
 
