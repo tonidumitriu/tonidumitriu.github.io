@@ -1,8 +1,11 @@
 
-I'm a student at the University of Pittsburgh with a burgeoning passion in programming and web/app design. I am also a competitive rower for the University. Any donations to the team would be very appreciated. [Donate](http://www.pitt.edu/~crew/donation.html)
+I'm a recent graduate of the University of Pittsburgh with a passion in programming and web/app design. 
 
 
 ### Projects
+[GIP USA Website](https://gip-usa.org)
+
+This is a website created using WordPress to help connect people in the US to resources and information regarding mental health services for Ukrainian refugees. 
 
 [Bank Simulation](https://github.com/tonidumitriu/Bank-Sim)
 
@@ -24,7 +27,7 @@ This is an IOS app programmed in Swift that calculates your BMI and tells you wh
 
 ### Other Passions
 
-Along with computer science and rowing I am also studying philosophy and economics and hope to find a way to integrate all three into my future career.
+Along with computer science I also studied philosophy and politics and hope to find a way to integrate all three into my future career.
 
 ### Contact
 
